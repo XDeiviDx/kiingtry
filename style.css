@@ -72,4 +72,26 @@ body{
     letter-spacing: 0.05em;
 }
 
+.bloquefinal {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    
+}
+.bloquefinal .cuadroimagen {
+    position: relative;
+    width: 10px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
 
+
+}
+.bloquefinal .cuadroimagen img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+}
