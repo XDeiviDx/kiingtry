@@ -84,3 +84,5 @@ body {
 .lista input[type="checkbox"]:checked ~ span{
     color: red;
 }
+
+
